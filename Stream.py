@@ -15,4 +15,3 @@ else:
 
 
 st.dataframe(current_df, hide_index=True)
-st.
